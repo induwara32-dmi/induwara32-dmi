@@ -1,6 +1,6 @@
 # Hi, I'm Induwara Rajapaksha 👋
 
-**Aspiring Full-Stack Developer** | Software Technology Undergraduate @ University of Vocational Technology (UVT)
+**Aspiring Full-Stack Developer** | Software Technology Undergraduate @ University of Vocational Technology 
 
 I build full-stack web applications using modern JavaScript frameworks, with a focus on clean architecture and solving real-world problems. Currently seeking internship opportunities.
 
