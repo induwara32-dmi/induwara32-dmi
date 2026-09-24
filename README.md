@@ -24,5 +24,5 @@ Business website rebuild for a creative design agency — migrated from WordPres
 🔗 [Live Site](https://www.designkoolama.lk/)
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/induwara-rajapaksha-249a65333)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/induwara-rajapaksha)
 📧 dimuthuinduwara32@gmail.com
